@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppMov_S13</string>
+    <string name="maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyClib1AIarCFVlrdlF5Q1gBMIJn5ByRslI</string>
+</resources>
